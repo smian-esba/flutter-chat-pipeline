@@ -13,3 +13,4 @@ build/
 *.ipr
 *.iws
 .idea/
+/ios/Flutter/flutter_export_environment.sh
